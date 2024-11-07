@@ -3,7 +3,7 @@ import numpy as np
 
 # list of folders used in the study
 # main folder, containing code and figures
-home_folder = '/home/perezoso/Dropbox/projects/cicada/encoding/iberamia_code'
+home_folder = './'
 # path to Le Petit Prince fMRI corpus, downloaded from https://doi.org/10.18112/openneuro.ds003643.v2.0.1
 lpp_path = '/home/perezoso/Dropbox/projects/cicada/fmri-data/petitprince/ds003643/'
 

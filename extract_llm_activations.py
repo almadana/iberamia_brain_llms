@@ -69,7 +69,7 @@ stride = maxlen - 64
 # lppEN_word_information.csv. Due to some discrepancies between these two sources,
 # some ad-hoc heuristics are used in order to improve the alignement.
 
-filename = os.path.join(lbl.annotation_folder, 'lppEN_word_information.csv')
+filename = os.path.join(lbl.home_folder, 'lppEN_word_information.csv')
 df_word_onsets = pd.read_csv(filename)
 
 df_word_onsets = df_word_onsets.drop([3919,6775,6781]) 
