@@ -38,7 +38,7 @@ figures_folder = os.path.join(home_folder, 'figures')
 n_runs = 9
 t_r = 2 #s
 
-acces_token = "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"
+acces_token = ""
 
 # helpers
 def make_dir(directory):

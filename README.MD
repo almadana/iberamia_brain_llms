@@ -20,6 +20,10 @@ __Instrucciones de instalación__
 
     pip install -r requirements.txt
 
+3. Edita la ruta a la carpeta local del repo en el archivo llms_brain_lateralization.py:
+
+   home_folder = '/%tu_path_al_repo_local/'
+
 
 __Primeros pasos (correr antes del workshop en la medida de lo posible)__
 
